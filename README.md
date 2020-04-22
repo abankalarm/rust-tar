@@ -1,4 +1,4 @@
-# rust-tar
+# rus-tar
 tar zipper and unzipper written in rust
 
 ```
